@@ -1,0 +1,42 @@
+.editorContainer{
+    height: 100%;
+    padding: 20px 40px 0 40px;
+    /* background: #89a4c7; */
+}
+.editor{
+    height: 300x;
+}
+.publishBtn{
+    width: 100px;
+    
+    margin-top: 20px;
+    /* float: left; */
+}
+.targetSelection{
+    margin-right: 10px;
+}
+
+.titleInput{
+    float: left;
+    width: 80%;
+    margin: 30px 0 0 10px;
+}
+.introInput{
+    float: left;
+    width: 80%;
+    margin:20px 0 0 10px;
+}
+.inputLabel{
+    float: left;
+
+    padding: 40px 0 0 40px;
+    font-size: 0.9em;
+}
+.center{
+    height: 50px;
+    line-height: 50px;
+}
+.rowStyle{
+    height: 50px;
+    line-height: 50px;
+}

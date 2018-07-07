@@ -1,0 +1,56 @@
+.container{
+    /* background: #eeeeee; */
+}
+
+
+.blogCard{
+    width:260px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+    margin: 10px 0 10px 0;
+    text-align: left;
+}
+.width-30{
+    /* width:30% ; */
+}
+.ul-list{
+    float: left;
+    width:280px;
+    padding: 0px 10px 0px 10px;
+}
+ul{
+    background: white
+}
+ul li{
+    list-style: none;
+}
+.titleBox{
+    height: 20px;
+    font-size: 1.2em;
+    color: #3f51b5
+}
+.date{
+    height: 20px;
+    font-size: 0.8em;
+    color: #eeeeee;
+    margin: 8px 0 15px 0;
+}
+.preview{
+    font-size: 1.0em;
+    columns: #212121;
+}
+.readBtn{
+    margin-top: 15px;
+    width: 60px;
+    height: 25px;
+    line-height: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    /* float: right; */
+}
+.font-size-08{
+    font-size: 0.8em;
+    color: lightgray;
+}

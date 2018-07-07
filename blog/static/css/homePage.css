@@ -1,0 +1,132 @@
+div {
+    box-sizing: border-box;
+}
+.homePage{
+    width: 100%;
+    height: 100%;
+}
+.head{
+    z-index: 999;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background: white ;
+    /* box-shadow:0px 0px 0px 2px #aaaaaa ; */
+    box-shadow: 0 2px 5px rgba(0,0,0,.26);
+}
+
+
+.guide{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.guideItem{
+    width: 33%;
+    height: 52px;
+    font-size: 0.9em;
+    color:#aaaaaa;
+}
+.width-30{
+    width: 30%;
+}
+
+
+.mdui-appbar{
+    background: #3f51b5;
+    color: white;
+}
+.left-head{
+    width: 10%;
+    float: left;
+    background: #aaaaaa;
+}
+.right-head{
+    width: 10%;
+    float: left;
+    background: #aaaaaa;
+}
+
+
+/* 内部容器 */
+.content{
+    width: 100%;
+    margin-top: 2px;
+}
+.infoBox{
+    width:25%;
+    height: 100%;
+    float: left;
+}
+.selected{
+    border-bottom:#3f51b5 solid 2px;
+    color: black;
+}
+
+.ownerInfoBox{
+    
+    float: left;
+    background:#ffffff;
+    width: 250px;
+    height: 600px;
+}
+.infoImgContainer{
+    width: 100%;
+}
+.infoImg{
+    width: 100%;
+}
+.ownerHeadimg{
+
+    z-index: 999;
+    width: 80;
+    height: 80px;
+    border-radius:50%;
+    margin: auto;
+    margin-top: -40px;
+}
+.headImg{
+    z-index: 998;
+    width: 80px;
+    height: 80px;
+    border-radius:50%;
+    overflow: hidden;
+}
+.ownerIntro{
+    color: #aaaaaa;
+    font-size: 0.9em;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+}
+.ownerName{
+    font-size: 1.2em;
+    color: black;
+    font-weight: 500;
+    text-align: center;
+    height: 30px;    
+    line-height: 30px;
+}
+.ownerInfo{
+    height: 80px;
+    margin: auto;
+    padding-top: 10px;
+
+}
+
+.row-style{
+    height: 20px;
+    font-size: 0.9em;
+    color: #aaaaaa;
+}
+.right-content{
+    width: 80%;
+    float: left
+}
+
+.readDate {
+    text-align: left;
+    padding: 10px 0 10px 0px;
+    font-size: 0.8em;
+}
+
